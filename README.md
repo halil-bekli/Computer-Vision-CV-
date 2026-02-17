@@ -1,2 +1,9 @@
 # Computer-Vision-CV-
-Computer vision projects to learn modern CV. Tech Stack: Python (Standart), Anaconda, 
+Computer vision projects to learn modern CV and apply it in real life. 
+Tech Stack: 
+  Language: Python (Standart) 
+  Platform: Anaconda
+  Image Processing: OpenCV
+  Matrix Processes: NumPy
+  Visualization: Matplotlib
+  Editor: Spyder IDE
