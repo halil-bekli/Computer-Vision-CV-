@@ -10,3 +10,14 @@ Projects for learning and applying modern Computer Vision techniques. This repos
 *   **Matrix Operations:** NumPy
 *   **Visualization:** Matplotlib
 *   **IDE:** Spyder
+
+## Contents
+
+- **OpenCV Image Processing Fundamentals** 
+- **OpenCV Object Detection** 
+- **OpenCV Object Tracking** 
+- **Convolutional Neural Networks (CNN)** 
+- **Object Detection with CNN** 
+- **R-CNN Architecture** 
+- **YOLO (You Only Look Once) Object Detection** 
+- **SSD (Single Shot MultiBox Detector) Object Detection**
